@@ -1,10 +1,12 @@
 <h1 align="center">Hi , I'm Jocelyn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h1 align="center"><img src=https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&lines=Machine+Learning;Software+Developer;CS+Student;Love+learning+new+things></h1>
+<h3 align="center"><img src=https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&color=F76617&lines=Machine+Learning;Software+Developer;CS+Student;Love+learning+new+things></h1>
 
+<img align="right" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="300" height="300">
 
 <br>
+<h3 align="left">About me</h3>
 
-##  About me
+
 - :school: I am a `Computer science MSc student` at the University of Birmingham
 - :technologist: I love using programming to solve `Problems`
 - :computer: I’m currently learning: `Machine Learning` and `Software Development`
