@@ -7,7 +7,7 @@
 <h3 align="left">About me</h3>
 
 
-- :school: University of Birmingham`MSc Computer science`
+- :school: University of Birmingham `MSc Computer science`
 - :technologist: I love using programming to solve `Problems`
 - :computer: I’m currently learning: `Machine Learning` and `Software Development`
 - :thinking: I’m open for a new `Job Opportunity`
